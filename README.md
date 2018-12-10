@@ -4,8 +4,8 @@ Data Structures Project in Department of Computer Engineering &amp; Informatics,
 <b>Implementation of:</b>
 1. AVL tree
 2. Trie
-3. Binary and Binary Interpolation Search
-4. Comparison of the performance of the above structures 
+3. Linear, Binary and Binary Interpolation Search
+4. Comparison of the performance of the above structures
 
 
 <b>Data set:</b><br>
@@ -18,3 +18,5 @@ csv file containing information over the a company (Id, Name, Description, #Empl
 <b>Instructions:</b><br>
   make<br>
   ./run
+<br>
+Run and choose from menu what to do!
