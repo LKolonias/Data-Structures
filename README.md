@@ -12,7 +12,7 @@ Data Structures Project in Department of Computer Engineering &amp; Informatics,
 csv file containing information over the a company (Id, Name, Description, #Employees, Employee...)<br>
 
 <b>Example:</b><br>
-1;Ozu;dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla;6;Russell Carroll;Kathy Kelley;Steven Lopez;Sarah Chavez;Barbara West;Billy Wells;Sandra Williamson		<br>	
+1;Google;Great company;6;Russell Carroll;Kathy Kelley;Steven Lopez;Sarah Chavez;Barbara West;Billy Wells;Sandra Williamson		<br>	
 
 
 <b>Instructions:</b><br>
