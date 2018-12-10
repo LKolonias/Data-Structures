@@ -1,7 +1,7 @@
 # Data-Structures
 Data Structures Project in Department of Computer Engineering &amp; Informatics, University of Patras (Spring 2015)
 
-Implementation of:
+<b>Implementation of:</b>
 1. AVL tree
 2. Trie
 3. Binary and Binary Interpolation Search
