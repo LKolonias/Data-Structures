@@ -18,6 +18,6 @@ csv file containing information over the a company (Id, Name, Description, #Empl
 <b>Instructions:</b><br>
   make<br>
   ./run
-<br>&nbsp<br>
+<br> <br>
 Run and choose from menu what to do!<br>
 (In order to run in Windows enviroment choose and uncomment the right libraries for measuring time from Tester.hpp)
