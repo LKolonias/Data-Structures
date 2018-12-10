@@ -8,14 +8,13 @@ Data Structures Project in Department of Computer Engineering &amp; Informatics,
 4. Comparison of the performance of the above structures 
 
 
-Data set:
-csv file containing information over the a company (Id, Name, Description, #Employees, Employee...)
+<b>Data set:</b><br>
+csv file containing information over the a company (Id, Name, Description, #Employees, Employee...)<br>
+
+<b>Example:</b><br>
+1;Ozu;dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla;6;Russell Carroll;Kathy Kelley;Steven Lopez;Sarah Chavez;Barbara West;Billy Wells;Sandra Williamson		<br>	
 
 
-Example:
-1;Ozu;dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla;6;Russell Carroll;Kathy Kelley;Steven Lopez;Sarah Chavez;Barbara West;Billy Wells;Sandra Williamson			
-
-
-Instructions:
-  make
+<b>Instructions:</b><br>
+  make<br>
   ./run
